@@ -1,0 +1,26 @@
+div {
+    width: 500px;
+    height: 500px;
+}
+header {
+    border-style: solid ;
+    border-color: darkblue;
+    border-width: 10px;
+    background-color:blue
+}
+
+main {
+    width: 400px;
+    margin: 5px 30px 15px 5px;
+    border-style: solid;
+    border-color: darkgoldenrod;
+    border-width: 20px;
+    background-color: yellow;
+}
+
+footer {
+    border-style: solid ;
+    border-color: darkblue;
+    border-width: 10px;
+    background-color:blue
+}
